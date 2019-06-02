@@ -1,0 +1,4 @@
+Django==2.0.3
+django-filter==2.1.0
+djangorestframework==3.9.2
+pytz==2019.1
