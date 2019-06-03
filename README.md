@@ -6,7 +6,7 @@
 ### Table of content
 - [Analysis](#analysis)
 - [Design Assumptions](#design-assumptions)
-- [Technology](#tech)
+- [Technology](#technology)
 - [Test driven development](#test-driven-development)
 - [Output File](#output-file)
 - [Demo Screenshots](#Demo-Screenshots)
@@ -21,16 +21,16 @@ I thought of choosing ajax calls , here I assumed the users(client) to be fewer.
 In case users increase and updates are also multiple from both server and client side(Publish Subscribe mechanism)
 I think using web sockets is better in that case.
 
-## Technology :
+## Technology
 - Backend : Django,DRF
 - Database : sqlite
 
-## Test driven development:
+## Test driven development
 - created test cases to test CRUD Operations
 in DRF apis
 - Tested from rest apis 
 
-## Output file:
+## Output file
 Log file to log json data after status is completed
 
 ## Demo Screenshots
