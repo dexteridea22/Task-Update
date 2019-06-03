@@ -22,13 +22,13 @@ In case users increase and updates are also multiple from both server and client
 I think using web sockets is better in that case.
 
 ## Technology :
-Backend : Django,DRF
-Database : sqlite
+- Backend : Django,DRF
+- Database : sqlite
 
 ## Test driven development:
-1.created test cases to test CRUD Operations
+- created test cases to test CRUD Operations
 in DRF apis
-2.Tested from rest apis 
+- Tested from rest apis 
 
 ## Output file:
 Log file to log json data after status is completed
