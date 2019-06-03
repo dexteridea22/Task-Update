@@ -5,11 +5,11 @@
 
 ### Table of content
 - [Analysis](#analysis)
-- [Demo Screenshots](#Demo-Screenshots)
 - [Design Assumptions](#design-assumptions)
-- [Technology](#technology)
+- [Technology](#tech)
 - [Test driven development](#test-driven-dev)
 - [Output File](#output-file)
+- [Demo Screenshots](#Demo-Screenshots)
 ## Analysis
 I carefully analysed for following solutions:
 1. Using Ajax call
